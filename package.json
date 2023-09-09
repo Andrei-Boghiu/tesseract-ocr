@@ -1,0 +1,19 @@
+{
+  "name": "tesseract-ocr",
+  "version": "1.0.0",
+  "description": "Boilerplate code for an OCR",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Andrew Schatten",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1",
+    "tesseract.js": "^4.1.2"
+  }
+}
